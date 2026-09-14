@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "Comprehensive hospital management and clinical operations system featuring patient admissions, electronic health records, doctor scheduling, ward bed occupancy, pharmacy inventory, lab diagnostics, and medical billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
